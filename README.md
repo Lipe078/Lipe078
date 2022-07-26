@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lipe078 😁
+## Bem-vindo(a) ao perfil do Lipe078 :star_struck:
 
  <div>
    <a href="https://github.com/Lipe078">
