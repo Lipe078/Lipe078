@@ -1,11 +1,7 @@
-## Bem-vindo(a) ao perfil do Lipe078 :star_struck:
+## Olá DEVs, eu sou o Lipe :star_struck:
 
- <div>
-   <a href="https://github.com/Lipe078">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lipe078&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe078&layout=compact&langs_count=6&theme=dracula"/>
+Atualmente estou cursando o quarto módulo em Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e tenho muita vontade em aprender. Tenho conhecimentos básico em C++, Mysql, HTML, CSS, JavaScript, Java, gerenciamento de projetos, Ubuntu. Meu objetivo é realizar um estágio para lidar com programação no dia a dia, aprendendo novas linguagens de programação e expertise/agilidade na codificação e na lógica. 
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,6 +17,17 @@
  <a href="https://discord.com/channels/Lipe07#3228" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC4BPT1luhmGYzYubTW8Zjgg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/phillipe-zampini-siqueira-caldeira/?original_referer=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2F&originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
+
+<div>
+   <a href="https://github.com/Lipe078">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lipe078&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipe078&layout=compact&langs_count=6&theme=dracula"/>
+
+</div> 
+ 
+ 
  
   ![Snake animation](https://github.com/Lipe078/Lipe078/blob/output/github-contribution-grid-snake.svg)
 
