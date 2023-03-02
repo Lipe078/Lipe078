@@ -1,6 +1,6 @@
 ## Olá DEVs, eu sou o Lipe :star_struck:
 
-Atualmente estou cursando o quarto módulo em Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e tenho muita vontade em aprender. Tenho conhecimentos básico em C++, Mysql, HTML, CSS, JavaScript, Java, gerenciamento de projetos, Ubuntu. Meu objetivo é realizar um estágio para lidar com programação no dia a dia, aprendendo novas linguagens de programação e expertise/agilidade na codificação e na lógica. 
+Atualmente estou cursando o quinto módulo em Análise e Desenvolvimento de Sistemas na FATEC Ipiranga e tenho muita vontade em aprender. Tenho conhecimentos básico em C++, Mysql, HTML, CSS, JavaScript, Java, gerenciamento de projetos, Ubuntu. Meu objetivo é realizar um estágio para lidar com programação no dia a dia, aprendendo novas linguagens de programação e expertise/agilidade na codificação e na lógica. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
